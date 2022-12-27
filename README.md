@@ -1,6 +1,8 @@
 # Welcome to x1aotian's Todoo App
 
-"Todoo" is a web application to manage to-do items. Users can create, delete, and update their items through this application.
+"Todoo" is a web application to manage to-do items. 
+
+Users can create, delete, and update their items through this application.
 
 The app also requires user log in and out. To try the app, use username `x1aotian` with password `dummy`.
 
